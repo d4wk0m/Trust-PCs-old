@@ -11,12 +11,12 @@ This file is the style guide used to build the website.
 
 ### Palete 1
   #### HEX
-    ###### Lime green: #00dc00ff;
-    ###### Slimy green: #009700ff;
-    ###### Raisin black: #1e212bff;
-    ###### Liver chestnut: #96705bff;
-    ###### Blanched almond: #ffecd1ff;
-    ###### Albaster: #f1f2ebff;
+    Lime green: #00dc00ff;
+    Slimy green: #009700ff;
+    Raisin black: #1e212bff;
+    Liver chestnut: #96705bff;
+    Blanched almond: #ffecd1ff;
+    Albaster: #f1f2ebff;
     
 #### HSL
     Lime green: hsla(120, 100%, 43%, 1);
@@ -26,6 +26,6 @@ This file is the style guide used to build the website.
     Blanched almond: hsla(35, 100%, 91%, 1);
     Albaster: hsla(69, 21%, 94%, 1);
     
-  Coolors
-    - Paleta Coolors.co - [Coolors Palete 1](https://coolors.co/00dc00-009700-1e212b-96705b-ffecd1-f1f2eb)
-    
+#### Coolors
+   Paleta Coolors.co - [Coolors Palete 1](https://coolors.co/00dc00-009700-1e212b-96705b-ffecd1-f1f2eb)
+   
