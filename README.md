@@ -5,7 +5,7 @@ This is the first real large project We have started. It is intended to be a sim
 ## Table of contents
 
 - [Design Links](#links)
-- [My process](#my-process)
+- [Development Process](#development-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Authors](#authors)
@@ -16,7 +16,7 @@ This is the first real large project We have started. It is intended to be a sim
 - Style Guide [Style](https://github.com/d4wk0m/Trust-PCs/blob/main/design/style.md)
 - GitHub projects page [Projects](https://github.com/d4wk0m/Trust-PCs/projects)
 
-## My process
+## Development Process
 
 ### Built with
 
