@@ -1,6 +1,6 @@
 # Trust PCs - Design Guide
 
-This file is the guide of styles used to build the website. 
+This file is the style guide used to build the website. 
 
 ## Table of contents
 
