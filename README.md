@@ -13,7 +13,7 @@ This is the first real large project We have started. It is intended to be a sim
 ## Design Links
 
 - Figma project - [Figma](https://www.figma.com/file/JMizyfdG13udWs66yPqvU2/Untitled?node-id=0%3A1)
-- Style Guide - [Style](https://github.com/d4wk0m/Trust-PCs/blob/main/design/style.md)
+- Style Guide - [Style](/design/style.md)
 - GitHub projects page - [Projects](https://github.com/d4wk0m/Trust-PCs/projects)
 
 ## Development Process
