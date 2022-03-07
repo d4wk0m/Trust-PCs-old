@@ -6,6 +6,7 @@ This file is the style guide used to build the website.
 
 - [Color Paletes](#color-paletes)
   - [Palete 1](#palete-1)
+    -[HEX](#HEX)
 
 ## Color Paletes
 
@@ -27,5 +28,5 @@ This file is the style guide used to build the website.
     Albaster: hsla(69, 21%, 94%, 1);
     
 #### Coolors
-   Paleta Coolors.co - [Coolors Palete 1](https://coolors.co/00dc00-009700-1e212b-96705b-ffecd1-f1f2eb)
+- Paleta Coolors.co - [Coolors Palete 1](https://coolors.co/00dc00-009700-1e212b-96705b-ffecd1-f1f2eb)
    
