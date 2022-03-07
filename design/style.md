@@ -25,3 +25,7 @@ This file is the guide of styles used to build the website.
     --liver-chestnut: hsla(21, 24%, 47%, 1);
     --blanched-almond: hsla(35, 100%, 91%, 1);
     --alabaster: hsla(69, 21%, 94%, 1);
+
+    /* Coolors */
+    [Coolors Palete 1](https://coolors.co/00dc00-009700-1e212b-96705b-ffecd1-f1f2eb)
+    
