@@ -18,7 +18,7 @@ This file is the style guide used to build the website.
     ###### Blanched almond: #ffecd1ff;
     ###### Albaster: #f1f2ebff;
     
-  HSL
+  #### HSL
     - Lime green: hsla(120, 100%, 43%, 1);
     - Slimy green: hsla(120, 100%, 30%, 1);
     - Raisin black: hsla(226, 18%, 14%, 1);
