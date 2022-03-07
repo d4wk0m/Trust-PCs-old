@@ -10,13 +10,13 @@ This file is the style guide used to build the website.
 ## Color Paletes
 
 ### Palete 1
-  HEX:
-    -Lime green: #00dc00ff;
-    -Slimy green: #009700ff;
-    -Raisin black: #1e212bff;
-    -Liver chestnut: #96705bff;
-    -Blanched almond: #ffecd1ff;
-    -Albaster: #f1f2ebff;
+  #### HEX
+    ###### Lime green: #00dc00ff;
+    ###### Slimy green: #009700ff;
+    ###### Raisin black: #1e212bff;
+    ###### Liver chestnut: #96705bff;
+    ###### Blanched almond: #ffecd1ff;
+    ###### Albaster: #f1f2ebff;
     
   HSL
     -Lime green: hsla(120, 100%, 43%, 1);
