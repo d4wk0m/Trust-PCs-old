@@ -6,7 +6,7 @@ This file is the style guide used to build the website.
 
 - [Color Paletes](#color-paletes)
   - [Palete 1](#palete-1)
-    -[HEX](#HEX)
+    - [HEX](#HEX)
 
 ## Color Paletes
 
