@@ -19,12 +19,12 @@ This file is the style guide used to build the website.
     ###### Albaster: #f1f2ebff;
     
 #### HSL
-- Lime green: hsla(120, 100%, 43%, 1);
-- Slimy green: hsla(120, 100%, 30%, 1);
-- Raisin black: hsla(226, 18%, 14%, 1);
-- Liver chestnut: hsla(21, 24%, 47%, 1);
-- Blanched almond: hsla(35, 100%, 91%, 1);
-- Albaster: hsla(69, 21%, 94%, 1);
+    Lime green: hsla(120, 100%, 43%, 1);
+    Slimy green: hsla(120, 100%, 30%, 1);
+    Raisin black: hsla(226, 18%, 14%, 1);
+    Liver chestnut: hsla(21, 24%, 47%, 1);
+    Blanched almond: hsla(35, 100%, 91%, 1);
+    Albaster: hsla(69, 21%, 94%, 1);
     
   Coolors
     - Paleta Coolors.co - [Coolors Palete 1](https://coolors.co/00dc00-009700-1e212b-96705b-ffecd1-f1f2eb)
