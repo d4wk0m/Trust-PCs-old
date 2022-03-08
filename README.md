@@ -5,18 +5,19 @@ This is the first real large project We have started. It is intended to be a sim
 ## Table of contents
 
 - [Design Links](#links)
-- [My process](#my-process)
+- [Development Process](#development-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Authors](#authors)
 
 ## Design Links
 
-- Figma project [Figma](https://www.figma.com/file/JMizyfdG13udWs66yPqvU2/Untitled?node-id=0%3A1)
-- Style Guide [Style](https://github.com/d4wk0m/Trust-PCs/blob/main/design/style.md)
-- GitHub projects page [Projects](https://github.com/d4wk0m/Trust-PCs/projects)
+- Figma project mobile - [Figma mobile](https://www.figma.com/file/JMizyfdG13udWs66yPqvU2/Trust-PCs---mobile?node-id=0%3A1)
+- Figma project PC - [Figma PC](https://www.figma.com/file/vscRnDcX9Xve6odyhEIH1l/Trust-PCs---PC)
+- Style Guide - [Style](/design/style.md)
+- GitHub projects page - [Projects](https://github.com/d4wk0m/Trust-PCs/projects)
 
-## My process
+## Development Process
 
 ### Built with
 
