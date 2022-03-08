@@ -13,6 +13,10 @@ This file is the style guide used to build the website.
       - [HEX](#HEX-2)
       - [HSL](#HSL-2)
       - [Coolors](#Coolors-2)
+  - [Palete 2](#palete-3)
+      - [HEX](#HEX-3)
+      - [HSL](#HSL-3)
+      - [Coolors](#Coolors-3)
 
 ## Color Paletes
 
@@ -58,3 +62,24 @@ This file is the style guide used to build the website.
   #### Coolors 2
   - Paleta Coolors.co - [Coolors Palete 2](https://coolors.co/1e212b-d2d7db-f1f2eb-397367-9d695a-42858c)
    
+ 
+ ### Palete 3
+
+  #### HEX 3
+    --rich-black-fogra-29: #111318ff;
+    --raisin-black: #1e212bff;
+    --raisin-black-2: #2a2e3cff;
+    --magnolia: #ece5f0ff;
+    --orange-web: #ffa400ff;
+    --carolina-blue: #009ffdff;
+
+  #### HSL 3
+    --rich-black-fogra-29: hsla(223, 17%, 8%, 1);
+    --raisin-black: hsla(226, 18%, 14%, 1);
+    --raisin-black-2: hsla(227, 18%, 20%, 1);
+    --magnolia: hsla(278, 27%, 92%, 1);
+    --orange-web: hsla(39, 100%, 50%, 1);
+    --carolina-blue: hsla(202, 100%, 50%, 1);
+
+  #### Coolors 3
+  - Paleta Coolors.co - [Coolors Palete 3](https://coolors.co/111318-1e212b-2a2e3c-ece5f0-ffa400-009ffd)
