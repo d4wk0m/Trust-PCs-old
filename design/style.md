@@ -13,7 +13,7 @@ This file is the style guide used to build the website.
       - [HEX](#HEX-2)
       - [HSL](#HSL-2)
       - [Coolors](#Coolors-2)
-  - [Palete 2](#palete-3)
+  - [Palete 3](#palete-3)
       - [HEX](#HEX-3)
       - [HSL](#HSL-3)
       - [Coolors](#Coolors-3)
