@@ -33,3 +33,4 @@ At this moment, we are designing the landing page.
 ## Authors
 
 - [Dawid Komęza](https://github.com/d4wk0m)
+- [Patryk Kulma](https://github.com/pvczku)
