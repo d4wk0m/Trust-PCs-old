@@ -56,5 +56,5 @@ This file is the style guide used to build the website.
     --metallic-seaweed: hsla(186, 36%, 40%, 1);
 
   #### Coolors 2
-  - Paleta Coolors.co - [Coolors Palete 1](https://coolors.co/1e212b-d2d7db-f1f2eb-397367-9d695a-42858c)
+  - Paleta Coolors.co - [Coolors Palete 2](https://coolors.co/1e212b-d2d7db-f1f2eb-397367-9d695a-42858c)
    
