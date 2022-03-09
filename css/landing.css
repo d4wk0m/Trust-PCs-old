@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap');
+
+:root{
+    --content-dark-black: hsla(223, 17%, 8%, 1);
+    --content-black: hsla(226, 18%, 14%, 1);
+    --background-dark: hsla(227, 18%, 20%, 1);
+    --text-white: hsla(278, 27%, 92%, 1);
+    --orange-web: hsla(39, 100%, 50%, 1);
+    --carolina-blue: hsla(202, 100%, 50%, 1);
+}
+
+body{
+    margin: 0px;
+    background-color: var(--background-dark);
+    width: 100vw;
+    font-family: 'Fredoka', sans-serif;
+}
+
+@media screen  and (max-width: 600px){
+    .header{
+        width: 100vw;
+        height: 19vw;
+        background-color: var(--content-black);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        filter: drop-shadow(0px 1vw 1vw rgba(0, 0, 0, 0.25));
+    }
+
+    .header img{
+        display: block;
+    }
+    
+    .menu-left{
+        margin-left: 3.2vw;
+        display: flex;
+        column-gap: 3.2vw;
+        align-items: center;
+    }
+    
+    .menu-right{
+        margin-right: 3.2vw;
+        column-gap: 0vw;
+        display: flex;
+        align-items: center;
+    }
+
+    .menu{
+        width: 6.4vw;
+        height: 4.25vw
+    }
+
+    .logo{
+        width: 32vw;
+        height: 14.6vw;
+    }
+
+    .cart{
+        width: 9.3vw;
+        height: 9.3vw;
+    }
+
+    .heart{
+        width: 9.3vw;
+        height: 9.3vw;
+    }
+
+    .acount{
+        width: 9.3vw;
+        height: 9.3vw;
+    }
+
+
+
+    
+    .container{
+        width: 96vw;
+    }
+}
+
